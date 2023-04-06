@@ -19,4 +19,4 @@ I live in Berlin. And I love codding! Here you can find my works.
 * <a href="https://github.com/iryna-zatynina/top_app">OWL - Top courses app</a> - NextJS, TypeScript, ESLINT, HTML, CSS 
 * <a href="https://github.com/iryna-zatynina/marvel">Nice Marvel search</a> - JavaScript, React, Redux, HTML, SCSS
 
-![Vadym's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryna-zatynina&show_icons=true&theme=dark)
+![Iryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryna-zatynina&show_icons=true&theme=dark)
