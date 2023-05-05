@@ -10,7 +10,8 @@ I live in Berlin. And I love codding! Here you can find my works.
 
 
 ### My Favorite Project Repos
-* <a href="https://github.com/iryna-zatynina/top_app">OWL - Top courses app</a> - NextJS, TypeScript, ESLINT, HTML, CSS 
-* <a href="https://github.com/iryna-zatynina/marvel">Nice Marvel search</a> - JavaScript, React, Redux, HTML, SCSS
+* <a href="https://github.com/iryna-zatynina/Writer_works">Writer works</a> - HTML SCSS JavaScript <a href="https://writerworks-b0080.web.app/">DEMO LINK</a>
+* <a href="https://github.com/iryna-zatynina/top_app">OWL - Top courses app</a> - NextJS, TypeScript, ESLINT, HTML, CSS <a href="https://owl-courses-b976d.web.app/courses/financial-analytics">DEMO LINK</a>
+* <a href="https://github.com/iryna-zatynina/movie-search">Movie Search</a> - JavaScript, React, Redux, HTML, SCSS <a href="https://moviesearch-f8844.web.app/">DEMO LINK</a>v
 
 ![Iryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryna-zatynina&show_icons=true&theme=dark)
