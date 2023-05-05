@@ -1,9 +1,10 @@
-# Hi, I'm Iryna.
-I live in Berlin. And I love codding! Here you can find my works.
+# Hi there 👋 I'm Iryna
 
-### Get In Touch
-<a href="mailto:ira.zat1997@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a> 
-<a href="https://www.linkedin.com/in/iryna-zatynina-ba4713175/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+- 👯 I’m looking for help with <strong>finding a couple hours that will be enough for me to sleep well</strong>
+- 📫 How to reach me: <strong><a href="mailto:ira.zat1997@gmail.com">ira.zat1997@gmail.com</a> <a href="https://www.linkedin.com/in/iryna-zatynina-ba4713175/">Linkedin - Iryna Zatynina</a></strong>
+- ⚡ Fun fact: <strong>I forget about everything while I'm writing code</strong>
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iryna-zatynina&theme=nord_bright)
 
 # My Skills
 
@@ -41,4 +42,3 @@ I live in Berlin. And I love codding! Here you can find my works.
 * <a href="https://github.com/iryna-zatynina/top_app">OWL - Top courses app</a> - NextJS, TypeScript, ESLINT, HTML, CSS <a href="https://owl-courses-b976d.web.app/">DEMO LINK</a>
 * <a href="https://github.com/iryna-zatynina/movie-search">Movie Search</a> - JavaScript, React, Redux, HTML, SCSS <a href="https://moviesearch-f8844.web.app/">DEMO LINK</a>
 
-![Iryna's GitHub stats](https://github-readme-stats.vercel.app/api?username=iryna-zatynina&show_icons=true&theme=dark)
