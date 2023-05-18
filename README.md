@@ -4,7 +4,14 @@
 - 📫 How to reach me: <strong><a href="mailto:ira.zat1997@gmail.com">ira.zat1997@gmail.com</a> <a href="https://www.linkedin.com/in/iryna-zatynina-ba4713175/">Linkedin - Iryna Zatynina</a></strong>
 - ⚡ Fun fact: <strong>I forget about everything while I'm writing code</strong>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iryna-zatynina&theme=nord_bright)
+### My Favorite Project Repos
+
+* <a href="https://github.com/iryna-zatynina/notes-app">Notes</a> - IndexedDB, JavaScript, HTML, SCSS <a href="https://notes-app-5a0fa.web.app/">DEMO LINK</a>
+* <a href="https://github.com/iryna-zatynina/Writer_works">Writer works - landing page</a> - JavaScript, HTML, SCSS <a href="https://writerworks-b0080.web.app/">DEMO LINK</a>
+* <a href="https://github.com/iryna-zatynina/top_app">OWL - Top courses app</a> - NextJS, TypeScript, ESLINT, Framer Motion, HTML, CSS <a href="https://owl-courses-b976d.web.app/">DEMO LINK</a>
+* <a href="https://github.com/iryna-zatynina/movie-search">Movie Search</a> - JavaScript, React, HTML, SCSS <a href="https://moviesearch-f8844.web.app/">DEMO LINK</a>
+* <a href="https://github.com/iryna-zatynina/cryptocurrency">Cryptocurrency</a> - TypeScript, React, Redux, HTML, SCSS <a href="https://cryptocurency-f0fe9.web.app/">DEMO LINK</a>
+* <a href="https://github.com/iryna-zatynina/weather">Weather</a> - TypeScript, React, HTML, SCSS, Bootstrap <a href="https://weather-10540.web.app/">DEMO LINK</a>
 
 # My Skills
 
@@ -36,9 +43,4 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-
-### My Favorite Project Repos
-* <a href="https://github.com/iryna-zatynina/Writer_works">Writer works</a> - HTML SCSS JavaScript <a href="https://writerworks-b0080.web.app/">DEMO LINK</a>
-* <a href="https://github.com/iryna-zatynina/top_app">OWL - Top courses app</a> - NextJS, TypeScript, ESLINT, HTML, CSS <a href="https://owl-courses-b976d.web.app/">DEMO LINK</a>
-* <a href="https://github.com/iryna-zatynina/movie-search">Movie Search</a> - JavaScript, React, Redux, HTML, SCSS <a href="https://moviesearch-f8844.web.app/">DEMO LINK</a>
-
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iryna-zatynina&theme=nord_bright)
